@@ -29,8 +29,11 @@ To run the tests:
 
 2. Make a PR to your forked repo with your changes (make sure you make PR on your forked repo and not on this one - by default github will choose this repo as destination for PR)
 
-3. If you chose to do public repo, send us link to the PR in your forked repo. If you choose to make private repo, add `anitsirc`, `kwdowik`, `jacobjuul` and `kristiandupont` as collaborators and send us link to it. (We prefer public repo's so it can be send internally to other frontenders for review.)
+3. If you chose to do public repo, send us link to the PR in YOUR own forked repo. If you choose to make private repo, add `anitsirc`, `optiguy`, `zoeyzou` and `ignaciomartinelias` as collaborators and send us link to it. (We prefer public repo's so it can be send internally to other frontenders for review)
 
+4. If you're doing a commit only, instead of opening a PR, please add a markdown file with your thought process so it's easier to review and to present what has changed. If you're opening a PR against your own repo, you can add it as the description of the PR. 
+
+Best of lucks! 
 
 # Tips
 
